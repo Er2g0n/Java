@@ -1,0 +1,4 @@
+sau tết cần làm:
+1. Làm reset pass
+2.Quay video
+3.Xử lý lặp khi in
